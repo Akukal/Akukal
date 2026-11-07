@@ -6,7 +6,7 @@
     Building digital experiences through clean code and creative solutions.
   </p>
 
-  <a href="https://haikalidris.netlify.app/">
+  <a href="https://akukal.web.id/">
     <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=black" />
   </a>
   <a href="mailto:hailkalidris2@gmail.com">
@@ -92,7 +92,7 @@ export default haikal;
   <a href="https://github.com/Akukal">
     <img src="https://img.shields.io/badge/GitHub-Akukal-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://haikalidris.netlify.app/">
+  <a href="https://akukal.web.id/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=black" />
   </a>
 
